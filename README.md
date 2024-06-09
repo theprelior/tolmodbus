@@ -117,4 +117,4 @@ Manages reading and writing data over the serial port.
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 ```
 
-This README file provides an overview of your project and helps new users quickly understand how to use your library.
+
