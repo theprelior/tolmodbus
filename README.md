@@ -1,12 +1,13 @@
 # tolmodbus
 Modbus Library for RTU 
 
-```markdown
+```
 # Modbus Library
 
 This library is developed to implement the Modbus protocol using C++ with termios. It includes functions for serial port configuration, CRC calculation, and the implementation of Modbus function codes.
 
 ## Directory Structure
+```
 
 ```
 modbus_lib/
